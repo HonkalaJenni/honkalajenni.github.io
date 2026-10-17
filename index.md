@@ -1,4 +1,4 @@
-[Bonus alisivu](honkalajenni.github.io/subpage.html)
+[Bonus alisivu](/subpage.html)
 
 ## Jenni Honkala | web-tehtävä
 
